@@ -8,6 +8,7 @@ public class calculator {
         calculator call = new calculator();
         // call.calll();
         call.callll();
+
     }
 
     public String calll() {
@@ -72,8 +73,6 @@ public class calculator {
             System.out.println("= " + result);
         }
         return "" + result;
-
-
 
     }
 }
